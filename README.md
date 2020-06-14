@@ -1,4 +1,8 @@
 # k8s-scheduler-extender-example
+[![Actions Status](https://github.com/elgohr/Publish-Docker-Github-Action/workflows/Test/badge.svg)](https://github.com/elgohr/Publish-Docker-Github-Action/actions)
+[![Actions Status](https://github.com/elgohr/Publish-Docker-Github-Action/workflows/Integration%20Test/badge.svg)](https://github.com/elgohr/Publish-Docker-Github-Action/actions)
+[![Actions Status](https://github.com/elgohr/Publish-Docker-Github-Action/workflows/Integration%20Test%20Github/badge.svg)](https://github.com/elgohr/Publish-Docker-Github-Action/actions)
+
 This is an example of [Kubernetes Scheduler Extender](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/scheduling/scheduler_extender.md)
 
 ## How to
